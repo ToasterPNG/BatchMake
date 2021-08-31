@@ -1,0 +1,9 @@
+Control Panel Commands:
+---------------------------
+
+run
+debug
+import
+buid
+run-build
+build-and-run

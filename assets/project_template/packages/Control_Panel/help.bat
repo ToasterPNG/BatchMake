@@ -1,0 +1,2 @@
+start help.txt
+exit
